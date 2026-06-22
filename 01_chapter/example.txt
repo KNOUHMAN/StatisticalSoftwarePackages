@@ -1,0 +1,6 @@
+Minyoung 1 F Stat 50 50
+Minji 2 F Computer 50 50
+Kongjui 6 F Computer 20 40
+Patjui 3 F Stat 20 45
+Heungboo 5 M Computer 25 25
+Nolboo 4 M Stat 29 28
