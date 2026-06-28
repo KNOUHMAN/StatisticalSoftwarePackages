@@ -1,0 +1,5 @@
+Yes Female 39.1  Yes Male 32.0  No Female 16.5  No Male 14.5
+Yes Female 26.2  Yes Male 23.8  No Female 18.4  No Male 11.0
+Yes Female 21.3  Yes Male 28.8  No Female 12.7  No Male 10.8
+Yes Female 35.8  Yes Male 25.0  No Female 14.0  No Male 14.3
+Yes Female 40.2  Yes Male 29.3  No Female 12.8  No Male 10.0
